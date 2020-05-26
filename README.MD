@@ -1,11 +1,15 @@
 This is a standard Tic Tac Toe game. 
 
+
+
 GAMEPLAY
 
-The player plays agains computer. Who goes first is determined at random before 
-each game. Computer always plays "X" and the player plays "O". Statisctics of 
+The player plays against computer. Who goes first is determined at random before 
+each game. Computer always plays "X" and the player plays "O". Statistics of 
 all wins, loses and ties is displayed on the screen. To exit the game either 
-press "Escape" key, or close the window.
+press "Escape" key or close the window.
+
+
 
 AI
 
